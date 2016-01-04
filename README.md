@@ -1,4 +1,4 @@
-# Bookmarker Tutorial Part 1
+# Bookmarker Tutorial Part 2
 
 [Part 1](http://book.cakephp.org/3.0/en/tutorials-and-examples/bookmarks/intro.html)
 
